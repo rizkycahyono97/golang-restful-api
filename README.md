@@ -1,6 +1,9 @@
 # GOLANG-RESTFUL-API
 Aplikasi ini merupakan implementasi RESTful API sederhana menggunakan bahasa Go (Golang) untuk manajemen data `Category`. API ini memiliki fitur `CRUD`, menggunakan database `MySQL`, dan menerapkan konsep Clean Architecture (layered).
 
+## Arsitektur Aplikasi
+![Desktop](assets/img.png)
+
 ## 🧱 Urutan Pembuatan Project
 
 ```markdown
